@@ -17,4 +17,3 @@ vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@nekocloud.tencentapp.cn:8443?securi
 
 trojan://BxceQaOe@58.152.25.71:443?sni=t.me%2Fripaojiedian&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2010
 trojan://BxceQaOe@58.152.26.107:443?sni=t.me%2Fripaojiedian&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2012
-trojan://5a2c16f9@104.26.1.110:443?sni=snippets.kkii.eu.org&type=ws&path=%2F&host=snippets.kkii.eu.org#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2015
