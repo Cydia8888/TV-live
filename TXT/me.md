@@ -16,6 +16,8 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@92.243.74.4:8443?security=tls&type=ws&path=%2Fproxyip%3Dsjc.o00o.ooo&host=stall.saass.ccwu.cc&sni=stall.saass.ccwu.cc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2022
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@nekocloud.tencentapp.cn:443?security=tls&type=ws&path=%2Fproxyip%3Dsjc.o00o.ooo&host=stall.saass.ccwu.cc&sni=stall.saass.ccwu.cc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2039
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@nekocloud.tencentapp.cn:8443?security=tls&type=ws&path=%2Fproxyip%3Dsjc.o00o.ooo&host=stall.saass.ccwu.cc&sni=stall.saass.ccwu.cc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2041
+vless://27930641-a054-427e-a142-b7c85358bf36@freeyx.cloudflare88.eu.org:443?security=tls&type=ws&path=%2Fannouncement&host=do-fra1.064288.xyz&allowInsecure=1&sni=do-fra1.064288.xyz&fp=random#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.6MB%2Fs
+vless://1d03fcc7-8af7-4277-9a6d-bf8f1f0eb6e4@46.224.152.184:55484?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.1MB%2Fs
 
 
 
