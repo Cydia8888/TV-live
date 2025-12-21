@@ -21,12 +21,5 @@ vless://1d03fcc7-8af7-4277-9a6d-bf8f1f0eb6e4@46.224.152.184:55484?security=none&
 
 
 
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?security=tls&sni=cm3-bpg.filegear-sg.me&fp=chrome&type=ws&path=%2Fproxyip%3D210.61.97.241%3A81#%F0%9F%87%AD%F0%9F%87%B0HK%C2%B9-%40zyzzzoao
 trojan://BxceQaOe@58.152.25.71:443?sni=t.me%2Fripaojiedian&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2010
 trojan://BxceQaOe@58.152.26.107:443?sni=t.me%2Fripaojiedian&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2012
-
-
-
-
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg5py65Zy65o6o6I2QOmRhZmVpLmRlIOe+juWbvSA4MyIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOiIzMDgwNCIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60g5py65Zy65o6o6I2QOmRhZmVpLmRlIOazsOWbvSAwMiIsImFkZCI6Im0ubW9kemFyZC5jb20iLCJwb3J0IjoiODA4MCIsImlkIjoiZjJlMTdiNGQtMjJmZC00NGE0LTkwZGItNDA2NDk3MTdiZThlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJzcGVlZHRlc3QuYWRzbHRoYWlsYW5kLmNvbSJ9
