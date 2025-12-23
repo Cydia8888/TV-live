@@ -3,4 +3,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#%F0%9F%87%B2%F0%9F%87%A9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%2003
 
 
-trojan://5a2c16f9@hk.pyip.xx.kg:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=snippets.kkii.eu.org;obfs-uri=/#2%E3%80%81TG%EF%BC%9A@Crow187%20%5BTrojan%5D
+vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAaGsucHlpcC54eC5rZzo0NDM?path=/&remarks=2%E3%80%81TG%EF%BC%9A@Crow187%20%5BVLESS%5D&obfsParam=snippets.kkii.eu.org&obfs=websocket&tls=1&peer=snippets.kkii.eu.org
