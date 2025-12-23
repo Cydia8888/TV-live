@@ -7,3 +7,4 @@ vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAaGsucHlpcC54eC5r
 vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmc6NDQz?path=/&remarks=9%E3%80%81%E7%AE%80%E7%9D%BF%20%5BVLESS%5D&obfsParam=snippets.kkii.eu.org&obfs=websocket&tls=1&peer=snippets.kkii.eu.org
 
 
+trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=snippets.kkii.eu.org;obfs-uri=/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2015
