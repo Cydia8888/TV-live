@@ -8,3 +8,7 @@ vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAZnJlZXl4LmNsb3Vk
 
 
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=snippets.kkii.eu.org;obfs-uri=/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2015
+
+
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg5py65Zy65o6o6I2QOmRhZmVpLmRlIOe+juWbvSAzOCIsImFkZCI6InY0LmhkYWNkLmNvbSIsInBvcnQiOiIzMDgwNCIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5py65Zy65o6o6I2QOmRhZmVpLmRlIOaWsOWKoOWdoSAwMiIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
