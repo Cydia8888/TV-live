@@ -5,3 +5,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg=
 
 vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAaGsucHlpcC54eC5rZzo0NDM?path=/&remarks=2%E3%80%81TG%EF%BC%9A@Crow187%20%5BVLESS%5D&obfsParam=snippets.kkii.eu.org&obfs=websocket&tls=1&peer=snippets.kkii.eu.org
 vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmc6NDQz?path=/&remarks=9%E3%80%81%E7%AE%80%E7%9D%BF%20%5BVLESS%5D&obfsParam=snippets.kkii.eu.org&obfs=websocket&tls=1&peer=snippets.kkii.eu.org
+
+
+trojan://5a2c16f9@202.126.65.93:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=snippets.kkii.eu.org;obfs-uri=/202.126.65.93:443#35%E3%80%81%E5%8F%B0%E6%B9%BE%20%5BTrojan%5D
