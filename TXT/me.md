@@ -9,7 +9,10 @@ vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAY2YuMTMwNTE5Lnh5
 vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAMzUuMjM2LjE0MS42MTo0NDM?path=/35.236.141.61:443&remarks=32%E3%80%81%E5%8F%B0%E6%B9%BE%20%5BVLESS%5D&obfsParam=snippets.kkii.eu.org&obfs=websocket&tls=1&peer=snippets.kkii.eu.org
 
 
-
+trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsnippets.kkii.eu.org;obfs-uri%3D/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2009
+trojan://5a2c16f9@cf.130519.xyz:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsnippets.kkii.eu.org;obfs-uri%3D/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2010
+trojan://12345678-1234-1234-1234-123456789123@WangCai.tencentapp.cn:443?peer=joss.gvpn2.web.id&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3D;obfs-uri%3D/Free-VPN-CF-Geo-Project/HK#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2032
+trojan://12345678-1234-1234-1234-123456789123@WangCai.tencentapp.cn:2096?peer=joss.gvpn2.web.id&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3D;obfs-uri%3D/Free-VPN-CF-Geo-Project/HK#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2091
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=snippets.kkii.eu.org;obfs-uri=/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2015
 
 
