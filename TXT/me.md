@@ -13,3 +13,7 @@ vless://YXV0bzo1YTJjMTZmOS1lMzY1LTQwODAtOGQzOC02OTI0YzM4MzU1ODZAMzUuMjM2LjE0MS42
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?peer=snippets.kkii.eu.org&plugin=obfs-local;obfs=websocket;obfs-host=snippets.kkii.eu.org;obfs-uri=/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E7%BE%8E%E5%9B%BD%2015
 
 
+shadowsocks=104.192.226.106:990, method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=false, tag=🇺🇸 机场推荐:dafei.de 美国 83
+shadowsocks=103.149.182.158:8388, method=chacha20-ietf, password=asd123456, fast-open=false, udp-relay=false, tag=🇭🇰 机场推荐:dafei.de 香港 13
+shadowsocks=217.60.63.96:443, method=chacha20-ietf-poly1305, password=EHLQstH17CwNIdEoTv2t0i, fast-open=false, udp-relay=false, tag=🇦🇪 机场推荐:dafei.de 阿联酋 01
+shadowsocks=62.133.60.60:7048, method=chacha20-ietf-poly1305, password=k1umilV0sNEXbKoYECfYOu, fast-open=false, udp-relay=false, tag=🇩🇪 机场推荐:dafei.de 德国 05
