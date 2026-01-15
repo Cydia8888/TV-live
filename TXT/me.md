@@ -23,3 +23,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjAyMTAxZWZmMmM5MjUw@149.102.144.110:26138#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2004
 ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:39398#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
 ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:47116#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
+
+
+trojan://a5b56a8c-93d1-4c74-a882-7bc0c983c096@xiaozhu1.kkieo555.cn:41275/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2009
+trojan://a77ee333-81e9-490a-b05b-3b0808fcaccf@xiaozhu1.kkieo555.cn:19216/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2011
+trojan://819a29a0-2ab6-49b4-b99e-83a87fc9e181@xiaozhu1.kkieo555.cn:30210/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2012
+trojan://5b00de2d-0c83-4cba-b873-a48d11e5b65f@xiaozhu1.kkieo555.cn:41273/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
+trojan://ab9273cc-c5a1-4624-8244-04501ea41dec@xiaozhu1.kkieo555.cn:49214/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2002
+trojan://819a29a0-2ab6-49b4-b99e-83a87fc9e181@xiaozhu1.kkieo555.cn:49213/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2001
+trojan://3d17bd81-3e56-4163-b953-29cb89c50375@cdnfire.xiaomispeed.com:21101/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2011
+trojan://37eb07c6-7ecb-4955-86dc-6284c5dc3b5c@xiaozhu1.kkieo555.cn:41274/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2001
