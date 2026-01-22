@@ -103,7 +103,7 @@ proxy-providers:
     override:
       additional-prefix: "[MeTo] " # 为订阅节点添加机场名称前缀
   机场名称2:
-    url:'https://r7.xwx.xx.kg/s/3ea98dff294f590e3d27dcfd812c0693'# '机场2的订阅URL'
+    url:'https://r7.xwx.xx.kg/s/3ea98dff294f590e3d27dcfd812c0693' #'机场2的订阅URL'
     <<: *NodeParam
     path: './proxy_providers/Rongseven.yaml'
     override:
