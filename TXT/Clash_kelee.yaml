@@ -103,11 +103,11 @@ proxy-providers:
     override:
       additional-prefix: "[MeTo] " # 为订阅节点添加机场名称前缀
   机场名称2:
-    url: '机场2的订阅URL'
+    url:'https://r7.xwx.xx.kg/s/3ea98dff294f590e3d27dcfd812c0693'# '机场2的订阅URL'
     <<: *NodeParam
-    path: './proxy_providers/机场名称2.yaml'
+    path: './proxy_providers/Rongseven.yaml'
     override:
-      additional-prefix: "[机场名称2] " # 为订阅节点添加机场名称前缀
+      additional-prefix: "[Rongseven] " # 为订阅节点添加机场名称前缀
 
 # 锚点 - 节点筛选组
 FilterHK: &FilterHK '^(?=.*((?i)🇭🇰|香港|(\b(HK|HKG|Hong)(\d+)?\b)))(?!.*((?i)回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
